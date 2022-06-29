@@ -1,0 +1,6 @@
+CustomerID,CompanyName,ContactName,ContactTitle,Address,City,Region,PostalCode,Country,Phone,Fax
+ANATR,"Ana Trujillo Emparedados y helados","Ana Trujillo",Owner,"Avda. de la Constitucin 2222","Mxico D.F.",NULL,05021,Mexico,"(5) 555-4729","(5) 555-3745"
+ANTON,"Antonio Moreno Taquera","Antonio Moreno",Owner,"Mataderos  2312","Mxico D.F.",NULL,05023,Mexico,"(5) 555-3932",NULL
+CENTC,"Centro comercial Moctezuma","Francisco Chang","Marketing Manager","Sierras de Granada 9993","Mxico D.F.",NULL,05022,Mexico,"(5) 555-3392","(5) 555-7293"
+PERIC,"Pericles Comidas clsicas","Guillermo Fernndez","Sales Representative","Calle Dr. Jorge Cash 321","Mxico D.F.",NULL,05033,Mexico,"(5) 552-3745","(5) 545-3745"
+TORTU,"Tortuga Restaurante","Miguel Angel Paolino",Owner,"Avda. Azteca 123","Mxico D.F.",NULL,05033,Mexico,"(5) 555-2933",NULL

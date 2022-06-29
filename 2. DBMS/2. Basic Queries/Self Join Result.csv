@@ -1,0 +1,91 @@
+ContactName1,ContactName2,City
+"Sergio Gutirrez","Patricio Simpson","Buenos Aires"
+"Sergio Gutirrez","Yvonne Moncada","Buenos Aires"
+"Yvonne Moncada","Patricio Simpson","Buenos Aires"
+"Yvonne Moncada","Sergio Gutirrez","Buenos Aires"
+"Patricio Simpson","Yvonne Moncada","Buenos Aires"
+"Patricio Simpson","Sergio Gutirrez","Buenos Aires"
+"Isabel de Castro","Lino Rodriguez",Lisboa
+"Lino Rodriguez","Isabel de Castro",Lisboa
+"Elizabeth Brown","Thomas Hardy",London
+"Elizabeth Brown","Victoria Ashworth",London
+"Elizabeth Brown","Ann Devon",London
+"Elizabeth Brown","Simon Crowther",London
+"Elizabeth Brown","Hari Kumar",London
+"Thomas Hardy","Victoria Ashworth",London
+"Thomas Hardy","Elizabeth Brown",London
+"Thomas Hardy","Ann Devon",London
+"Thomas Hardy","Simon Crowther",London
+"Thomas Hardy","Hari Kumar",London
+"Victoria Ashworth","Thomas Hardy",London
+"Victoria Ashworth","Elizabeth Brown",London
+"Victoria Ashworth","Ann Devon",London
+"Victoria Ashworth","Simon Crowther",London
+"Victoria Ashworth","Hari Kumar",London
+"Hari Kumar","Thomas Hardy",London
+"Hari Kumar","Victoria Ashworth",London
+"Hari Kumar","Elizabeth Brown",London
+"Hari Kumar","Ann Devon",London
+"Hari Kumar","Simon Crowther",London
+"Ann Devon","Thomas Hardy",London
+"Ann Devon","Victoria Ashworth",London
+"Ann Devon","Elizabeth Brown",London
+"Ann Devon","Simon Crowther",London
+"Ann Devon","Hari Kumar",London
+"Simon Crowther","Thomas Hardy",London
+"Simon Crowther","Victoria Ashworth",London
+"Simon Crowther","Elizabeth Brown",London
+"Simon Crowther","Ann Devon",London
+"Simon Crowther","Hari Kumar",London
+"Martn Sommer","Diego Roel",Madrid
+"Martn Sommer","Alejandra Camino",Madrid
+"Alejandra Camino","Martn Sommer",Madrid
+"Alejandra Camino","Diego Roel",Madrid
+"Diego Roel","Martn Sommer",Madrid
+"Diego Roel","Alejandra Camino",Madrid
+"Guillermo Fernndez","Ana Trujillo","Mxico D.F."
+"Guillermo Fernndez","Antonio Moreno","Mxico D.F."
+"Guillermo Fernndez","Francisco Chang","Mxico D.F."
+"Guillermo Fernndez","Miguel Angel Paolino","Mxico D.F."
+"Ana Trujillo","Antonio Moreno","Mxico D.F."
+"Ana Trujillo","Francisco Chang","Mxico D.F."
+"Ana Trujillo","Guillermo Fernndez","Mxico D.F."
+"Ana Trujillo","Miguel Angel Paolino","Mxico D.F."
+"Francisco Chang","Ana Trujillo","Mxico D.F."
+"Francisco Chang","Antonio Moreno","Mxico D.F."
+"Francisco Chang","Guillermo Fernndez","Mxico D.F."
+"Francisco Chang","Miguel Angel Paolino","Mxico D.F."
+"Antonio Moreno","Ana Trujillo","Mxico D.F."
+"Antonio Moreno","Francisco Chang","Mxico D.F."
+"Antonio Moreno","Guillermo Fernndez","Mxico D.F."
+"Antonio Moreno","Miguel Angel Paolino","Mxico D.F."
+"Miguel Angel Paolino","Ana Trujillo","Mxico D.F."
+"Miguel Angel Paolino","Antonio Moreno","Mxico D.F."
+"Miguel Angel Paolino","Francisco Chang","Mxico D.F."
+"Miguel Angel Paolino","Guillermo Fernndez","Mxico D.F."
+"Carine Schmitt","Janine Labrune",Nantes
+"Janine Labrune","Carine Schmitt",Nantes
+"Marie Bertrand","Dominique Perrier",Paris
+"Dominique Perrier","Marie Bertrand",Paris
+"Fran Wilson","Liz Nixon",Portland
+"Liz Nixon","Fran Wilson",Portland
+"Bernardo Batista","Mario Pontes","Rio de Janeiro"
+"Bernardo Batista","Janete Limeira","Rio de Janeiro"
+"Janete Limeira","Mario Pontes","Rio de Janeiro"
+"Janete Limeira","Bernardo Batista","Rio de Janeiro"
+"Mario Pontes","Bernardo Batista","Rio de Janeiro"
+"Mario Pontes","Janete Limeira","Rio de Janeiro"
+"Jaime Yorres","Jaime Yorres","San Francisco"
+"Jaime Yorres","Jaime Yorres","San Francisco"
+"Pedro Afonso","Aria Cruz","Sao Paulo"
+"Pedro Afonso","Lcia Carvalho","Sao Paulo"
+"Pedro Afonso","Anabela Domingues","Sao Paulo"
+"Anabela Domingues","Pedro Afonso","Sao Paulo"
+"Anabela Domingues","Aria Cruz","Sao Paulo"
+"Anabela Domingues","Lcia Carvalho","Sao Paulo"
+"Aria Cruz","Pedro Afonso","Sao Paulo"
+"Aria Cruz","Lcia Carvalho","Sao Paulo"
+"Aria Cruz","Anabela Domingues","Sao Paulo"
+"Lcia Carvalho","Pedro Afonso","Sao Paulo"
+"Lcia Carvalho","Aria Cruz","Sao Paulo"
+"Lcia Carvalho","Anabela Domingues","Sao Paulo"

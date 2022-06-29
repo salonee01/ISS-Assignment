@@ -1,0 +1,78 @@
+ProductName,"UnitPrice * (UnitsInStock + COALESCE(UnitsOnOrder, 0))"
+Chai,702.0000
+Chang,1083.0000
+"Aniseed Syrup",830.0000
+"Chef Anton's Cajun Seasoning",1166.0000
+"Chef Anton's Gumbo Mix",0.0000
+"Grandma's Boysenberry Spread",3000.0000
+"Uncle Bob's Organic Dried Pears",450.0000
+"Northwoods Cranberry Sauce",240.0000
+"Mishi Kobe Niku",2813.0000
+Ikura,961.0000
+"Queso Cabrales",1092.0000
+"Queso Manchego La Pastora",3268.0000
+Konbu,144.0000
+Tofu,813.7500
+"Genen Shouyu",604.5000
+Pavlova,506.0500
+"Alice Mutton",0.0000
+"Carnarvon Tigers",2625.0000
+"Teatime Chocolate Biscuits",230.0000
+"Sir Rodney's Marmalade",3240.0000
+"Sir Rodney's Scones",430.0000
+"Gustaf's Knckebrd",2184.0000
+Tunnbrd,549.0000
+"Guaran Fantstica",90.0000
+"NuNuCa Nu-Nougat-Creme",1064.0000
+"Gumbr Gummibrchen",468.4500
+"Schoggi Schokolade",2151.1000
+"Rssle Sauerkraut",1185.6000
+"Thringer Rostbratwurst",0.0000
+"Nord-Ost Matjeshering",258.9000
+"Gorgonzola Telino",875.0000
+"Mascarpone Fabioli",1568.0000
+Geitost,280.0000
+"Sasquatch Ale",1554.0000
+"Steeleye Stout",360.0000
+"Inlagd Sill",2128.0000
+"Gravad lax",1586.0000
+"Cte de Blaye",4479.5000
+"Chartreuse verte",1242.0000
+"Boston Crab Meat",2263.2000
+"Jack's New England Clam Chowder",820.2500
+"Singaporean Hokkien Fried Mee",364.0000
+"Ipoh Coffee",1242.0000
+"Gula Malacca",525.1500
+"Rogede sild",712.5000
+Spegesild,1140.0000
+"Zaanse koeken",342.0000
+Chocolade,1083.7500
+Maxilaku,1400.0000
+"Valkoinen suklaa",1056.2500
+"Manjimup Dried Apples",1060.0000
+"Filo Mix",266.0000
+"Perth Pasties",0.0000
+Tourtire,156.4500
+"Pt chinois",2760.0000
+"Gnocchi di nonna Alice",1178.0000
+"Ravioli Angelo",702.0000
+"Escargots de Bourgogne",821.5000
+"Raclette Courdavault",4345.0000
+"Camembert Pierrot",646.0000
+"Sirop d'rable",3220.5000
+"Tarte au sucre",838.1000
+Vegie-spread,1053.6000
+"Wimmers gute Semmelkndel",3391.5000
+"Louisiana Fiery Hot Pepper Sauce",1599.8000
+"Louisiana Hot Spiced Okra",1768.0000
+"Laughing Lumberjack Lager",728.0000
+"Scottish Longbreads",200.0000
+Gudbrandsdalsost,936.0000
+"Outback Lager",375.0000
+Flotemysost,559.0000
+"Mozzarella di Giovanni",487.2000
+"Rd Kaviar",1515.0000
+"Longlife Tofu",240.0000
+"Rhnbru Klosterbier",968.7500
+Lakkalikri,1026.0000
+"Original Frankfurter grne Soe",416.0000

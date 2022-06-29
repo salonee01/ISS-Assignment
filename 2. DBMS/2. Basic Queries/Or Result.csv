@@ -1,0 +1,5 @@
+CustomerID,CompanyName,ContactName,ContactTitle,Address,City,Region,PostalCode,Country,Phone,Fax
+GALED,"Galera del gastrnomo","Eduardo Saavedra","Marketing Manager","Rambla de Catalua, 23",Barcelona,NULL,08022,Spain,"(93) 203 4560","(93) 203 4561"
+BOLID,"Blido Comidas preparadas","Martn Sommer",Owner,"C/ Araquil, 67",Madrid,NULL,28023,Spain,"(91) 555 22 82","(91) 555 91 99"
+FISSA,"FISSA Fabrica Inter. Salchichas S.A.","Diego Roel","Accounting Manager","C/ Moralzarzal, 86",Madrid,NULL,28034,Spain,"(91) 555 94 44","(91) 555 55 93"
+ROMEY,"Romero y tomillo","Alejandra Camino","Accounting Manager","Gran Va, 1",Madrid,NULL,28001,Spain,"(91) 745 6200","(91) 745 6210"

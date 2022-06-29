@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Sign Up!</title>
+    <!-- FONT AWESOME -->
+    <script src="https://kit.fontawesome.com/887e6e97bd.js" crossorigin="anonymous"></script>
+    <!-- CSS STYLESHEET -->
+    <link rel="stylesheet"href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+    crossorigin="anonymous">
+    <!-- FONTS -->
+    <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href=" css/login.css ">
+</head>
+<script type="text/javascript">
+	function validateForm() {
+  var name = document.forms["signupform"]["fullname"].value;
+  var email = document.forms["signupform"]["email"].value;
+  var password = document.signupform.password.value;
+  var cpassword = document.signupform.cpassword.value; 
+  if (name="" || email == "" || password == "" || cpassword == "") {
+    alert("Fields can't be empty!");
+    return false;
+  }
+  else if (password != cpassword){
+  	alert("Passwords do not match");
+  	return false;
+  }
+}
+
+</script>
+
+<body>
+		<div class="fluid-container" style="background-color: #184d47">
+
+		    <nav class="navbar navbar-expand-lg navbar-dark">
+		        <a class="navbar-brand" href="index.html">FoodZie</a>
+		        <button class="navbar-toggler" type="button" data-toggle="collapse" data-
+		        target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-
+		        expanded="false" aria-label="Toggle navigation">
+		        <span class="navbar-toggler-icon"></span>
+		        </button>
+		        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+			        <ul class="navbar-nav ml-auto">
+			        <li class="nav-item">
+			        <a class="nav-link" href="#">Pricing</a>
+			        </li>
+			        <li class="nav-item">
+			        <a class="nav-link" href="#">Features</a>
+			        </li>
+			        <li class="nav-item">
+			        <a class="nav-link" href="#">About</a>
+			        </li>
+			        <li class="nav-item">
+			        <a class="nav-link" href="login.html">Login</a>
+			        </li>
+			        <li class="nav-item">
+			        <a class="nav-link" href="signup.html">Sign Up</a>
+			        </li>
+			        </ul>
+		        </div>
+		    </nav>
+		
+
+	<div class="container" id="container">
+		<div class="form-container sign-in-container">
+			<form name="signupform" action="login.html" onsubmit="return validateForm()" method="post">
+				<h1 style="font-weight: bold; margin: 0;">Create Account</h1>
+				<div class="social-container">
+					<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+					<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+					<a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+				</div>
+				<span>or use your email for registration</span>
+				<input type="text" placeholder="Name" name="fullname" />
+				<input type="email" placeholder="Email" name="email" />
+				<input type="password" placeholder="Password" name="password" />
+				<input type="password" placeholder="ConfirmPassword" name="cpassword" />
+				<button>Sign Up</button>
+				<!-- <a style="color: #000000" href="login.html">Already have an account?</a> -->
+			</form>
+		</div>
+    	
+
+		</div>
+	</div>
+			
+</body>
+    <footer id="footer">
+
+    <p>© Copyright 2022 Foodzie</p>
+
+    </footer>
+</html>

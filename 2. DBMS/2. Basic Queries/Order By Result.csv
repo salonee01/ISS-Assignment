@@ -1,0 +1,26 @@
+OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+10540,QUICK,3,"1997-05-19 00:00:00","1997-06-16 00:00:00","1997-06-13 00:00:00",3,1007.6400,QUICK-Stop,"Taucherstrae 10",Cunewalde,NULL,1307,Germany
+10372,QUEEN,5,"1996-12-04 00:00:00","1997-01-01 00:00:00","1996-12-09 00:00:00",2,890.7800,"Queen Cozinha","Alameda dos Canrios, 891","Sao Paulo",SP,05487-020,Brazil
+11030,SAVEA,7,"1998-04-17 00:00:00","1998-05-15 00:00:00","1998-04-27 00:00:00",2,830.7500,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA
+10691,QUICK,2,"1997-10-03 00:00:00","1997-11-14 00:00:00","1997-10-22 00:00:00",2,810.0500,QUICK-Stop,"Taucherstrae 10",Cunewalde,NULL,1307,Germany
+10514,ERNSH,3,"1997-04-22 00:00:00","1997-05-20 00:00:00","1997-05-16 00:00:00",2,789.9500,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+11017,ERNSH,9,"1998-04-13 00:00:00","1998-05-11 00:00:00","1998-04-20 00:00:00",2,754.2600,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+10816,GREAL,4,"1998-01-06 00:00:00","1998-02-03 00:00:00","1998-02-04 00:00:00",2,719.7800,"Great Lakes Food Market","2732 Baker Blvd.",Eugene,OR,97403,USA
+10479,RATTC,3,"1997-03-19 00:00:00","1997-04-16 00:00:00","1997-03-21 00:00:00",3,708.9500,"Rattlesnake Canyon Grocery","2817 Milton Dr.",Albuquerque,NM,87110,USA
+10983,SAVEA,2,"1998-03-27 00:00:00","1998-04-24 00:00:00","1998-04-06 00:00:00",2,657.5400,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA
+11032,WHITC,2,"1998-04-17 00:00:00","1998-05-15 00:00:00","1998-04-23 00:00:00",3,606.1900,"White Clover Markets","1029 - 12th Ave. S.",Seattle,WA,98124,USA
+10897,HUNGO,3,"1998-02-19 00:00:00","1998-03-19 00:00:00","1998-02-25 00:00:00",2,603.5400,"Hungry Owl All-Night Grocers","8 Johnstown Road",Cork,"Co. Cork",NULL,Ireland
+10912,HUNGO,2,"1998-02-26 00:00:00","1998-03-26 00:00:00","1998-03-18 00:00:00",2,580.9100,"Hungry Owl All-Night Grocers","8 Johnstown Road",Cork,"Co. Cork",NULL,Ireland
+10612,SAVEA,1,"1997-07-28 00:00:00","1997-08-25 00:00:00","1997-08-01 00:00:00",2,544.0800,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA
+10847,SAVEA,4,"1998-01-22 00:00:00","1998-02-05 00:00:00","1998-02-10 00:00:00",3,487.5700,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA
+10634,FOLIG,4,"1997-08-15 00:00:00","1997-09-12 00:00:00","1997-08-21 00:00:00",3,487.3800,"Folies gourmandes","184, chausse de Tournai",Lille,NULL,59000,France
+10633,ERNSH,7,"1997-08-15 00:00:00","1997-09-12 00:00:00","1997-08-18 00:00:00",3,477.9000,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+10430,ERNSH,4,"1997-01-30 00:00:00","1997-02-13 00:00:00","1997-02-03 00:00:00",1,458.7800,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+10841,SUPRD,5,"1998-01-20 00:00:00","1998-02-17 00:00:00","1998-01-29 00:00:00",2,424.3000,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+10836,ERNSH,7,"1998-01-16 00:00:00","1998-02-13 00:00:00","1998-01-21 00:00:00",1,411.8800,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+10941,SAVEA,7,"1998-03-11 00:00:00","1998-04-08 00:00:00","1998-03-20 00:00:00",2,400.8100,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA
+10694,QUICK,8,"1997-10-06 00:00:00","1997-11-03 00:00:00","1997-10-09 00:00:00",3,398.3600,QUICK-Stop,"Taucherstrae 10",Cunewalde,NULL,1307,Germany
+10678,SAVEA,7,"1997-09-23 00:00:00","1997-10-21 00:00:00","1997-10-16 00:00:00",3,388.9800,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA
+10605,MEREP,1,"1997-07-21 00:00:00","1997-08-18 00:00:00","1997-07-29 00:00:00",2,379.1300,"Mre Paillarde","43 rue St. Laurent",Montral,Qubec,"H1J 1C3",Canada
+10424,MEREP,7,"1997-01-23 00:00:00","1997-02-20 00:00:00","1997-01-27 00:00:00",2,370.6100,"Mre Paillarde","43 rue St. Laurent",Montral,Qubec,"H1J 1C3",Canada
+10510,SAVEA,6,"1997-04-18 00:00:00","1997-05-16 00:00:00","1997-04-28 00:00:00",3,367.6300,"Save-a-lot Markets","187 Suffolk Ln.",Boise,ID,83720,USA

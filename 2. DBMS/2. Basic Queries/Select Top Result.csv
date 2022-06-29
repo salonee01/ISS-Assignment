@@ -1,0 +1,11 @@
+OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+10841,SUPRD,5,"1998-01-20 00:00:00","1998-02-17 00:00:00","1998-01-29 00:00:00",2,424.3000,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+10760,MAISD,4,"1997-12-01 00:00:00","1997-12-29 00:00:00","1997-12-10 00:00:00",1,155.6400,"Maison Dewey","Rue Joseph-Bens 532",Bruxelles,NULL,B-1180,Belgium
+10458,SUPRD,7,"1997-02-26 00:00:00","1997-03-26 00:00:00","1997-03-04 00:00:00",3,147.0600,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+10892,MAISD,4,"1998-02-17 00:00:00","1998-03-17 00:00:00","1998-02-19 00:00:00",2,120.2700,"Maison Dewey","Rue Joseph-Bens 532",Bruxelles,NULL,B-1180,Belgium
+10475,SUPRD,9,"1997-03-14 00:00:00","1997-04-11 00:00:00","1997-04-04 00:00:00",1,68.5200,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+10529,MAISD,5,"1997-05-07 00:00:00","1997-06-04 00:00:00","1997-05-09 00:00:00",2,66.6900,"Maison Dewey","Rue Joseph-Bens 532",Bruxelles,NULL,B-1180,Belgium
+10846,SUPRD,2,"1998-01-22 00:00:00","1998-03-05 00:00:00","1998-01-23 00:00:00",3,56.4600,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+10252,SUPRD,4,"1996-07-09 00:00:00","1996-08-06 00:00:00","1996-07-11 00:00:00",2,51.3000,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+11004,MAISD,3,"1998-04-07 00:00:00","1998-05-05 00:00:00","1998-04-20 00:00:00",1,44.8400,"Maison Dewey","Rue Joseph-Bens 532",Bruxelles,NULL,B-1180,Belgium
+10978,MAISD,9,"1998-03-26 00:00:00","1998-04-23 00:00:00","1998-04-23 00:00:00",2,32.8200,"Maison Dewey","Rue Joseph-Bens 532",Bruxelles,NULL,B-1180,Belgium

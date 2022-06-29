@@ -1,0 +1,4 @@
+CustomerID,CompanyName,ContactName,ContactTitle,Address,City,Region,PostalCode,Country,Phone,Fax
+DRACD,"Drachenblut Delikatessen","Sven Ottlieb","Order Administrator","Walserweg 21",Aachen,NULL,52066,Germany,0241-039123,0241-059428
+NORTS,North/South,"Simon Crowther","Sales Associate","South House 300 Queensbridge",London,NULL,"SW7 1RZ",UK,"(171) 555-7733","(171) 555-2530"
+RANCH,"Rancho grande","Sergio Gutirrez","Sales Representative","Av. del Libertador 900","Buenos Aires",NULL,1010,Argentina,"(1) 123-5555","(1) 123-5556"
